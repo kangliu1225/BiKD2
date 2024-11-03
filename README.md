@@ -13,4 +13,5 @@ We provide pytorch implementation for BiKD2.
 
 ## prerequisites
 torch=2.3.1+cu118
+
 dgl=1.1.2+cu118
